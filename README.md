@@ -1,3 +1,4 @@
+
 ### NewsGroupIdentification_SSL
 
 The main objective is detection (i.e. classification) of the respective categories of the data set using semi supervised learning (SSL). 
@@ -16,3 +17,5 @@ Future work involves application of:
 - [ ] Word Embedding - word2vec
 - [ ] LDA based topic model
 - [ ] TF-IDF
+
+![NewsGroupDistribution](https://user-images.githubusercontent.com/64710190/120066612-91853700-c077-11eb-8e76-a6cbefbe2d19.PNG)
